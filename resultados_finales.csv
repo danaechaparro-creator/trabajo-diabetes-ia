@@ -1,0 +1,11 @@
+Modelo,Conjunto,Accuracy,Precision,Recall,F1-Score,AUC,KS
+ElasticNet,Entrenamiento,0.7188,0.6286,0.4706,0.5382,0.7646,0.4244
+ElasticNet,Validación,0.697,0.5873,0.4568,0.5139,0.7658,0.4548
+Random Forest,Entrenamiento,1.0,1.0,1.0,1.0,1.0,1.0
+Random Forest,Validación,0.6797,0.5574,0.4198,0.4789,0.7172,0.3504
+XGBoost,Entrenamiento,1.0,1.0,1.0,1.0,1.0,1.0
+XGBoost,Validación,0.645,0.493,0.4321,0.4605,0.6323,0.257
+Red Neuronal,Entrenamiento,1.0,1.0,1.0,1.0,1.0,1.0
+Red Neuronal,Validación,0.6017,0.4247,0.3827,0.4026,0.5986,0.1862
+XGBoost Optimizado,Entrenamiento,0.933,0.9576,0.8449,0.8977,0.983,0.8859
+XGBoost Optimizado,Validación,0.645,0.4921,0.3827,0.4306,0.6691,0.3
