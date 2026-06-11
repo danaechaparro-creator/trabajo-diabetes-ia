@@ -234,9 +234,6 @@ df_resultados_final.to_csv("resultados_finales.csv", index=False)
 # ============================================================
 # PUNTO 5: INTERPRETACIÓN Y SELECCIÓN DEL MODELO FINAL
 # ============================================================
-# ============================================================
-# PUNTO 5: INTERPRETACIÓN Y SELECCIÓN DEL MODELO FINAL
-# ============================================================
 
 validacion = df_resultados_final[df_resultados_final["Conjunto"] == "Validación"]
 
